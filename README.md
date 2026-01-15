@@ -3,7 +3,7 @@ A small business with 1 router, 1 switch, and 10 employees needs basic connectiv
 PROJECT 1 — Small Office Basic Network (Beginner)
 Scenario
 
-A small business with 1 router, 1 switch, and 10 employees needs basic connectivity.
+A small business with 1 router, 1 switch, and 6 employees needs basic connectivity.
 
 Build:
 1 Router (Cisco 2911)
