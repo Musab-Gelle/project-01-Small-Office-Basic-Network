@@ -1,0 +1,23 @@
+Project 1 Configuration:
+enable
+configure terminal
+
+Hostname LAN-Switch
+
+interface FastEthernet0/1
+ switchport mode access
+ no shutdown
+ exit
+
+interface FastEthernet0/2
+ switchport mode access
+ no shutdown
+ exit
+
+interface FastEthernet0/3
+ switchport mode access
+ no shutdown
+ exit
+
+end
+write memory
